@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writeups/WRITEUP_TEMPLATE.md",
+                "file": "writeups/thm/THM - Day 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WRITEUP_TEMPLATE"
+              "title": "THM - Day 0"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writeups/WRITEUP_TEMPLATE.md",
+                "file": "writeups/thm/THM - Day 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WRITEUP_TEMPLATE"
+              "title": "Backlinks for THM - Day 0"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writeups/WRITEUP_TEMPLATE.md",
+                "file": "writeups/thm/THM - Day 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WRITEUP_TEMPLATE"
+              "title": "Outgoing links from THM - Day 0"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writeups/WRITEUP_TEMPLATE.md",
+                "file": "writeups/thm/THM - Day 0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WRITEUP_TEMPLATE"
+              "title": "Outline of THM - Day 0"
             }
           }
         ]
@@ -200,10 +200,11 @@
   },
   "active": "4ccee8df770a14cf",
   "lastOpenFiles": [
-    "writeups/htb/HTB_MACHINE_TEMPLATE.md",
     "writeups/thm/THM_ROOM_TEMPLATE.md",
-    "writeups/thm/02JUN2026.md",
+    "writeups/thm/THM - Day 0.md",
     "writeups/WRITEUP_TEMPLATE.md",
+    "writeups/htb/HTB_MACHINE_TEMPLATE.md",
+    "writeups/thm/02JUN2026.md",
     "phase-1-thm/README.md",
     "phase-0-foundation/README.md"
   ]
