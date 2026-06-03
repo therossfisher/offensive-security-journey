@@ -1,10 +1,10 @@
 # Offensive Security Learning Journey
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/YOURUSERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge)](https://github.com/YOURUSERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURPROFILE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/dreamfps)
+[![GitHub followers](https://img.shields.io/github/followers/therossfisher?style=for-the-badge)](https://github.com/therossfisher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rossfish)
 
-> Transitioning from network engineering into offensive security and AI red teaming. Documenting methodology, findings, and progress publicly. Networking background | Wireshark | Building toward eJPT → PNPT → OSCP.
+> Transitioning from network engineering into offensive security and AI red teaming. Documenting methodology, findings, and progress publicly. Networking background A.S. Computer Network Engineering | CCNA | NRS-I | Wireshark | Building toward eJPT → PNPT → OSCP.
 
 ---
 
