@@ -8,7 +8,7 @@
 
 Guided, structured learning with hands-on labs. The hand-holding is intentional here — the goal is building methodology and tool fluency before moving to unguided platforms. If this phase generates genuine engagement and the lock-in feeling on problems, the path is confirmed. If it feels like pure grind with no pull, that's important information.
 
-**TryHackMe Profile:** [Link your profile here]
+**TryHackMe Profile:** [https://tryhackme.com/p/dreamfps]
 
 ---
 
