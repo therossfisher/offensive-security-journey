@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writeups/thm/THM - Day 0.md",
+                "file": "writeups/thm/Guided Pentest WEB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THM - Day 0"
+              "title": "Guided Pentest WEB"
             }
           }
         ],
@@ -201,7 +201,7 @@
   "active": "4ccee8df770a14cf",
   "lastOpenFiles": [
     "writeups/thm/THM_ROOM_TEMPLATE.md",
-    "writeups/thm/THM - Day 0.md",
+    "writeups/thm/Guided Pentest WEB.md",
     "writeups/WRITEUP_TEMPLATE.md",
     "writeups/htb/HTB_MACHINE_TEMPLATE.md",
     "writeups/thm/02JUN2026.md",
