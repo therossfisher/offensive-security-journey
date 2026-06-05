@@ -129,3 +129,5 @@ workspace thm           # Switch to workspace
 - Pre-built shells on Kali: `/usr/share/webshells/`
 - Always set `STOP_ON_SUCCESS true` for brute force modules
 - Use `db_nmap` instead of regular nmap to auto-save results
+- ctrl+z to background a session
+- sessions will list all active sessions, ```sessions -i <ID>```

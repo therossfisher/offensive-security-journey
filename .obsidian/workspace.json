@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes and Cheatsheets/Tools/Metasploit.md",
+                "file": "Notes and Cheatsheets/Tools/Meterpreter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metasploit"
+              "title": "Meterpreter"
             }
           }
         ],
@@ -228,8 +228,9 @@
   },
   "active": "e4a6d27b230b9ebc",
   "lastOpenFiles": [
-    "Notes and Cheatsheets/Tools/Nmap.md",
     "Notes and Cheatsheets/Tools/Metasploit.md",
+    "Notes and Cheatsheets/Tools/Meterpreter.md",
+    "Notes and Cheatsheets/Tools/Nmap.md",
     "Notes and Cheatsheets/Tools/Gobuster.md",
     "Notes and Cheatsheets/Tools/Curl.md",
     "writeups/thm/Guided Pentest Infrastructure.md",
