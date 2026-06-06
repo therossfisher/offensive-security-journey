@@ -34,12 +34,12 @@ This is a living portfolio of my offensive security learning journey. Every room
 
 ### Platform Progress
 
-| Platform | Status | Rooms/Machines | Notes |
-|---|---|---|---|
-| TryHackMe | 🔄 Active | 0 | Jr Pen Tester path |
-| HackTheBox | ⬜ Not Started | 0 | Start after THM |
-| PortSwigger Web Academy | 🔄 Active | 0 | Running parallel |
-| OWASP LLM Top 10 | 🔄 Studying | 0/10 | AI red team foundation |
+| Platform                | Status          | Rooms/Machines | Notes                  |
+| ----------------------- | --------------- | -------------- | ---------------------- |
+| TryHackMe               | [x] Active      | 30             | Jr Pen Tester path     |
+| HackTheBox              | [ ] Not Started | 0              | Start after THM        |
+| PortSwigger Web Academy | [ ] Not Started | 0              | Running parallel       |
+| OWASP LLM Top 10        | [ ] Not Started | 0/10           | AI red team foundation |
 
 ---
 

@@ -404,3 +404,12 @@ grep http scan.gnmap
 
 # Returns full line including IP — much more useful than grepping normal output
 ```
+
+## Host Discovery When ICMP is Filtered
+
+When ICMP echo is blocked, follow this progression:
+
+1. **ICMP timestamp** `-PP` — try ICMP alternatives before abandoning the protocol
+2. **UDP ping** `-PU` — UDP to closed ports triggers ICMP port unreachable responses
+3. **TCP ACK ping** `-PA` — pure TCP, no ICMP dependency, requires root
+4. **Port enumeration** `-p [ports]` — verify discovered hosts with targeted scan

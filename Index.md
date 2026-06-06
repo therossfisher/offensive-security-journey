@@ -1,5 +1,3 @@
-# Pentest Cheatsheets
-
 ## Tools
 - [[Curl]]
 - [[Gobuster]]
@@ -8,5 +6,5 @@
 - [[Nmap]]
 
 ## Reference
-- [[Nmap]]]
+- [[Nmap]]
 - [[Metasploit and Meterpreter lookups]]
