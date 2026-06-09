@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writeups/thm/Notes and Cheatsheets/Tools/Redis.md",
+                "file": "writeups/thm/THM Room Notes/Content Discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis"
+              "title": "Content Discovery"
             }
           }
         ]
@@ -185,10 +185,13 @@
   },
   "active": "f0118e2f46bc15e6",
   "lastOpenFiles": [
+    "writeups/thm/Notes and Cheatsheets/Tools/Gobuster.md",
+    "writeups/thm/THM Room Notes/Content Discovery.md",
     "writeups/thm/THM Room Notes/Web Application Basics.md",
-    "writeups/thm/Notes and Cheatsheets/Tools/Redis.md",
+    "writeups/thm/THM Room Notes/Metasploit and Meterpreter lookups.md",
+    "writeups/thm/Notes and Cheatsheets/Technical Notes/Redis.md",
     "phase-1-thm/README.md",
-    "writeups/thm/Guided Pentest WEB.md",
+    "writeups/thm/THM Room Notes/Guided Pentest WEB.md",
     "writeups/thm/Notes and Cheatsheets/Tools/Nmap.md",
     "writeups/thm/Notes and Cheatsheets/Technical Notes/Ports.md",
     "writeups/thm/Notes and Cheatsheets/Technical Notes/Protocols and Servers 2.md",
@@ -210,9 +213,6 @@
     "writeups/thm/Notes and Cheatsheets/Reconnaissance/Active Reconnaissance.md",
     "writeups/thm/Notes and Cheatsheets/Reconnaissance/Passive Reconnaissance.md",
     "writeups/thm/Notes and Cheatsheets/Reconnaissance/Recon Automation (Bug Hunter Method).md",
-    "writeups/thm/Notes and Cheatsheets/Tools/Curl.md",
-    "writeups/thm/Notes and Cheatsheets/Conceptual Notes/Penetration Testing Frameworks/_Penetration Testing Frameworks Field Guide.md",
-    "writeups/thm/Notes and Cheatsheets/Tools/Metasploit.md",
     "writeups/thm/Notes and Cheatsheets/Reconnaissance",
     "writeups/thm/Notes and Cheatsheets/Conceptual Notes/Penetration Testing Frameworks",
     "writeups/thm/Notes and Cheatsheets/Conceptual Notes",

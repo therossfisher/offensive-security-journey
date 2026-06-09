@@ -143,6 +143,7 @@ Older format, still seen in enterprise/SOAP APIs.
 | 500-599 | Server Error | Problem on the server side |
 
 **Common codes:**
+
 | Code | Meaning |
 |---|---|
 | 200 | OK — success |
@@ -176,18 +177,21 @@ Defines trusted sources for content — mitigates XSS.
 ```
 Content-Security-Policy: default-src 'self'; script-src 'self' https://cdn.tryhackme.com; style-src 'self'
 ```
-| Directive | Purpose |
-|---|---|
-| `default-src` | Default policy for all content |
-| `script-src` | Where scripts can be loaded from |
-| `style-src` | Where CSS can be loaded from |
-| `'self'` | Same domain as current site |
+
+| Directive     | Purpose                          |
+| ------------- | -------------------------------- |
+| `default-src` | Default policy for all content   |
+| `script-src`  | Where scripts can be loaded from |
+| `style-src`   | Where CSS can be loaded from     |
+| `'self'`      | Same domain as current site      |
+
 
 ### Strict-Transport-Security (HSTS)
 Forces HTTPS connections — prevents SSL stripping.
 ```
 Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 ```
+
 | Directive | Purpose |
 |---|---|
 | `max-age` | How long to enforce (seconds) |
