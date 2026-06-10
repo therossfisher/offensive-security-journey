@@ -2,7 +2,7 @@
 
 ## Syntax
 ```
-nmap [options] [target]
+sudo nmap -sC -sV --reason -oA nmap/facts
 ```
 
 ---
