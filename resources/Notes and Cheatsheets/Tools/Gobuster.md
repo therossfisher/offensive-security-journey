@@ -2,8 +2,16 @@
 
 Directory, file, DNS, and virtual host enumeration tool. Pre-installed on Kali.
 
----
 
+---
+## Syntax
+
+```bash
+gobuster [mode] [options]
+# Example
+gobuster dir -u http://TARGET -w WORDLIST -t 50
+```
+---
 ## Modes
 
 | Mode | What It Does |
@@ -37,14 +45,14 @@ Directory, file, DNS, and virtual host enumeration tool. Pre-installed on Kali.
 
 ## Wordlists
 
-| Wordlist | Size | Best For |
-|---|---|---|
-| `/usr/share/wordlists/dirb/common.txt` | ~4K | Quick first pass |
-| `/usr/share/wordlists/dirbuster/directory-list-2.3-small.txt` | ~87K | Fast, thorough |
-| `/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt` | ~220K | Most thorough |
-| `/usr/share/seclists/Discovery/Web-Content/common.txt` | ~4.7K | Best general purpose |
-| `/usr/share/seclists/Discovery/Web-Content/raft-medium-directories.txt` | ~30K | Good all-around |
-| `/usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt` | 5K | Subdomain enum |
+| Wordlist                                                                | Size  | Best For             |
+| ----------------------------------------------------------------------- | ----- | -------------------- |
+| `/usr/share/wordlists/dirb/common.txt`                                  | ~4K   | Quick first pass     |
+| `/usr/share/wordlists/dirbuster/directory-list-2.3-small.txt`           | ~87K  | Fast, thorough       |
+| `/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt`          | ~220K | Most thorough        |
+| `/usr/share/seclists/Discovery/Web-Content/common.txt`                  | ~4.7K | Best general purpose |
+| `/usr/share/seclists/Discovery/Web-Content/raft-medium-directories.txt` | ~30K  | Good all-around      |
+| `/usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt`     | 5K    | Subdomain enum       |
 
 **Strategy:** Start with `dirb/common.txt` for speed. Move to `dirbuster/medium` if nothing useful comes back.
 
