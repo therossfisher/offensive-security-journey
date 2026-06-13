@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Resume Challenge Notes/Study Guide.md",
+                "file": "Cloud Resume Challenge Notes/Study Guide 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study Guide"
+              "title": "Study Guide 2"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "8d73dbd2eb1d9e4f",
   "lastOpenFiles": [
-    "Cloud Resume Challenge Notes/README.md",
     "Cloud Resume Challenge Notes/Study Guide.md",
+    "Cloud Resume Challenge Notes/Study Guide 2.md",
+    "Cloud Resume Challenge Notes/README.md",
     "ai-redteam/0din/Scope.md",
     "Cloud Resume Challenge Notes",
     "resources/Notes and Cheatsheets/Web App Vulnerabilities/SQL Injection.md",
@@ -244,7 +245,6 @@
     "resources/Notes and Cheatsheets/Reconnaissance/Web Server Recon And Misconfig ID.md",
     "resources/Notes and Cheatsheets/Reconnaissance/Active Reconnaissance.md",
     "resources/Notes and Cheatsheets/Tools/Curl.md",
-    "resources/Notes and Cheatsheets/Reconnaissance/Fingerprinting Signals Reference.md",
     "resources/Notes and Cheatsheets/Technology Stacks",
     "resources/Notes and Cheatsheets/Web App Vulnerabilities",
     "resources/Try Hack Me/THM Room Notes",
