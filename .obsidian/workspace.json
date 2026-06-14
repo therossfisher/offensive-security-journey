@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Resume Challenge Notes/Study Guide 2.md",
+                "file": "resources/Notes and Cheatsheets/Web App Vulnerabilities/CSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study Guide 2"
+              "title": "CSRF"
             }
           }
         ],
@@ -214,9 +214,16 @@
   },
   "active": "8d73dbd2eb1d9e4f",
   "lastOpenFiles": [
-    "Cloud Resume Challenge Notes/Study Guide.md",
+    "resources/Notes and Cheatsheets/Tools/Burp Suite/1 Overview.md",
+    "resources/Notes and Cheatsheets/Web App Vulnerabilities/CSRF.md",
+    "resources/Notes and Cheatsheets/Tools/Burp Suite/4 Other Modules and Extensions.md",
+    "resources/Notes and Cheatsheets/Tools/Burp Suite/3 Repeater.md",
+    "resources/Notes and Cheatsheets/Tools/Burp Suite/2 Intruder.md",
     "Cloud Resume Challenge Notes/Study Guide 2.md",
+    "resources/Notes and Cheatsheets/Tools/Burp Suite",
+    "Cloud Resume Challenge Notes/Study Guide.md",
     "Cloud Resume Challenge Notes/README.md",
+    "Cloud Resume Challenge Notes/Project Documentation.md",
     "ai-redteam/0din/Scope.md",
     "Cloud Resume Challenge Notes",
     "resources/Notes and Cheatsheets/Web App Vulnerabilities/SQL Injection.md",
@@ -239,16 +246,9 @@
     "resources/Linux",
     "phase-4-pnpt-oscp/README.md",
     "phase-3-intermediate/README.md",
-    "phase-2-htb-ejpt/README.md",
-    "phase-0-foundation/README.md",
-    "phase-1-thm/README.md",
-    "resources/Notes and Cheatsheets/Reconnaissance/Web Server Recon And Misconfig ID.md",
-    "resources/Notes and Cheatsheets/Reconnaissance/Active Reconnaissance.md",
-    "resources/Notes and Cheatsheets/Tools/Curl.md",
     "resources/Notes and Cheatsheets/Technology Stacks",
     "resources/Notes and Cheatsheets/Web App Vulnerabilities",
     "resources/Try Hack Me/THM Room Notes",
-    "writeups/Templates",
-    "resources/Notes and Cheatsheets/Reconnaissance"
+    "writeups/Templates"
   ]
 }
