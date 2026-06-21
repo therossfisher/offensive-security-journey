@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/Notes and Cheatsheets/Technical Notes/Windows/Windows Fundamentals.md",
+                "file": "writeups/htb/Easy/Tony The Tiger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Fundamentals"
+              "title": "Tony The Tiger"
             }
           }
         ],
@@ -214,8 +214,16 @@
   },
   "active": "8d73dbd2eb1d9e4f",
   "lastOpenFiles": [
-    "resources/Notes and Cheatsheets/Technical Notes/Windows/Powershell/Powershell Fundamentals.md",
+    "resources/Notes and Cheatsheets/Tools/Nmap.md",
+    "writeups/htb/Easy/Tony The Tiger.md",
+    "writeups/htb/Easy",
+    "resources/Notes and Cheatsheets/Tools/TCP Dump.md",
+    "resources/Notes and Cheatsheets/Tools/Wireshark.md",
+    "resources/Notes and Cheatsheets/Technical Notes/Protocols and Servers 2.md",
+    "resources/Notes and Cheatsheets/Technical Notes/Computer Networking/Computer Networking Fundamentals.md",
+    "resources/Notes and Cheatsheets/Technical Notes/Computer Networking",
     "resources/Notes and Cheatsheets/Technical Notes/Windows/Windows Fundamentals.md",
+    "resources/Notes and Cheatsheets/Technical Notes/Windows/Powershell/Powershell Fundamentals.md",
     "resources/Notes and Cheatsheets/Technical Notes/Linux/Linux Fundamentals.md",
     "resources/Notes and Cheatsheets/Technical Notes/Windows/Powershell",
     "resources/Notes and Cheatsheets/Technical Notes/Ports.md",
@@ -241,14 +249,6 @@
     "resources/Notes and Cheatsheets/Web App Vulnerabilities/SQL Injection.md",
     "ai-redteam/0din",
     "resources/HTB Attack Chains/S3 Bucket Misconfiguration Attack Chain.md",
-    "resources/Notes and Cheatsheets/Tools/Gobuster.md",
-    "resources/Try Hack Me Room Notes/AI And ML Security Threats.md",
-    "resources/Try Hack Me Room Notes/Guided Pentest WEB.md",
-    "resources/Notes and Cheatsheets/Tools/Evil WinRM.md",
-    "resources/Notes and Cheatsheets/Tools/John the Ripper.md",
-    "resources/Notes and Cheatsheets/Tools/Responder.md",
-    "resources/HTB Attack Chains",
-    "resources/Notes and Cheatsheets/Technical Notes/SQL",
-    "resources/Linux"
+    "resources/HTB Attack Chains"
   ]
 }
