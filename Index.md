@@ -3,8 +3,8 @@
 - [[Gobuster]]
 - [[Metasploit]]
 - [[Meterpreter]]
-- [[Nmap]]
+- [[Nmap General]]
 
 ## Reference
-- [[Nmap]]
+- [[Nmap General]]
 - [[Metasploit and Meterpreter lookups]]
