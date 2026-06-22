@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writeups/htb/Easy/Tony The Tiger.md",
+                "file": "resources/Notes and Cheatsheets/Tools/John the Ripper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tony The Tiger"
+              "title": "John the Ripper"
             }
           }
         ],
@@ -214,8 +214,14 @@
   },
   "active": "8d73dbd2eb1d9e4f",
   "lastOpenFiles": [
-    "resources/Notes and Cheatsheets/Tools/Nmap.md",
+    "resources/Notes and Cheatsheets/Technical Notes/Cryptography/Cryptography Fundamentals.md",
+    "resources/Notes and Cheatsheets/Tools/Privilege Escalation/Sudo Privesc.md",
+    "resources/Notes and Cheatsheets/Technical Notes/Cryptography/Tools",
+    "resources/Notes and Cheatsheets/Technical Notes/Cryptography/Notes",
+    "resources/Notes and Cheatsheets/Technical Notes/Cryptography",
     "writeups/htb/Easy/Tony The Tiger.md",
+    "resources/Notes and Cheatsheets/Tools/Privilege Escalation",
+    "resources/Notes and Cheatsheets/Tools/Nmap.md",
     "writeups/htb/Easy",
     "resources/Notes and Cheatsheets/Tools/TCP Dump.md",
     "resources/Notes and Cheatsheets/Tools/Wireshark.md",
@@ -240,15 +246,9 @@
     "resources/Notes and Cheatsheets/Tools/Burp Suite/3 Repeater.md",
     "resources/Notes and Cheatsheets/Tools/Burp Suite/2 Intruder.md",
     "Cloud Resume Challenge Notes/Study Guide 2.md",
-    "resources/Notes and Cheatsheets/Tools/Burp Suite",
     "Cloud Resume Challenge Notes/Study Guide.md",
     "Cloud Resume Challenge Notes/README.md",
     "Cloud Resume Challenge Notes/Project Documentation.md",
-    "ai-redteam/0din/Scope.md",
-    "Cloud Resume Challenge Notes",
-    "resources/Notes and Cheatsheets/Web App Vulnerabilities/SQL Injection.md",
-    "ai-redteam/0din",
-    "resources/HTB Attack Chains/S3 Bucket Misconfiguration Attack Chain.md",
-    "resources/HTB Attack Chains"
+    "ai-redteam/0din/Scope.md"
   ]
 }
