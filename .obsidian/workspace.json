@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/Notes and Cheatsheets/Programming/SQL/SQL Essentials.md",
+                "file": "Security Engineer/Cryptography/Cryptography Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Essentials"
+              "title": "Cryptography Fundamentals"
             }
           }
         ]
@@ -185,41 +185,41 @@
   },
   "active": "4f683616b590e3b6",
   "lastOpenFiles": [
-    "resources/Notes and Cheatsheets/Programming/Java Script/Java Script Essentials.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Curl.md",
+    "Security Engineer/Cryptography/Cryptography Fundamentals.md",
+    "Security Engineer/Cryptography",
+    "Security Engineer",
+    "resources/Notes and Cheatsheets/Conceptual Notes/Security Principles.md",
+    "resources/Notes and Cheatsheets/Malware Analysis/FlareVM.md",
     "resources/Notes and Cheatsheets/Programming/SQL/SQL Essentials.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Shells/Shells Overview.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/TCP Dump.md",
+    "resources/Notes and Cheatsheets/Malware Analysis/REMnux.md",
+    "resources/Notes and Cheatsheets/Malware Analysis/CAPA - Common Analysis Platform for Artifacts.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/John the Ripper.md",
+    "resources/Notes and Cheatsheets/Malware Analysis",
+    "resources/Notes and Cheatsheets/Offensive Tools/Hydra.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Gobuster.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Shells",
+    "resources/Notes and Cheatsheets/Offensive Tools/Nmap/Nmap General.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Nmap/Nmap CTF.md",
+    "resources/Notes and Cheatsheets/Programming/Java Script/Java Script Essentials.md",
     "resources/Notes and Cheatsheets/Programming/SQL",
     "resources/Notes and Cheatsheets/Web App Vulnerabilities/SQL Injection.md",
     "ai-redteam/0din/Scope.md",
     "csrf-notes.md",
-    "resources/Notes and Cheatsheets/Tools/Nmap/Nmap CTF.md",
     "resources/Notes and Cheatsheets/Programming/Java Script",
     "resources/Notes and Cheatsheets/Programming",
-    "resources/Notes and Cheatsheets/Tools/Nmap/Nmap General.md",
-    "resources/Notes and Cheatsheets/Tools/Nmap",
-    "resources/Notes and Cheatsheets/Tools/John the Ripper.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Nmap",
     "resources/Notes and Cheatsheets/Technical Notes/Cryptography/Cryptography Fundamentals.md",
-    "resources/Notes and Cheatsheets/Tools/Privilege Escalation/Sudo Privesc.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Privilege Escalation/Sudo Privesc.md",
     "resources/Notes and Cheatsheets/Technical Notes/Cryptography/Tools",
     "resources/Notes and Cheatsheets/Technical Notes/Cryptography/Notes",
-    "resources/Notes and Cheatsheets/Technical Notes/Cryptography",
     "writeups/htb/Easy/Tony The Tiger.md",
-    "resources/Notes and Cheatsheets/Tools/Privilege Escalation",
-    "writeups/htb/Easy",
-    "resources/Notes and Cheatsheets/Tools/TCP Dump.md",
-    "resources/Notes and Cheatsheets/Tools/Wireshark.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Wireshark.md",
     "resources/Notes and Cheatsheets/Technical Notes/Protocols and Servers 2.md",
     "resources/Notes and Cheatsheets/Technical Notes/Computer Networking/Computer Networking Fundamentals.md",
-    "resources/Notes and Cheatsheets/Technical Notes/Computer Networking",
     "resources/Notes and Cheatsheets/Technical Notes/Windows/Windows Fundamentals.md",
-    "resources/Notes and Cheatsheets/Technical Notes/Windows/Powershell/Powershell Fundamentals.md",
-    "resources/Notes and Cheatsheets/Technical Notes/Linux/Linux Fundamentals.md",
-    "resources/Notes and Cheatsheets/Technical Notes/Ports.md",
-    "resources/Try Hack Me Room Notes/AI Forensics Notes.md",
-    "resources/Try Hack Me Room Notes/Untitled.md",
-    "resources/Notes and Cheatsheets/Tools/AI Prompt Engineering/Prompt Engineering - General Notes.md",
-    "resources/Notes and Cheatsheets/Web App Vulnerabilities/XSS.md",
-    "resources/Notes and Cheatsheets/Web App Vulnerabilities/CSRF.md",
-    "resources/Notes and Cheatsheets/Tools/Burp Suite/1 Overview.md",
-    "resources/Notes and Cheatsheets/Tools/Burp Suite/4 Other Modules and Extensions.md"
+    "resources/Notes and Cheatsheets/Technical Notes/Windows/Powershell/Powershell Fundamentals.md"
   ]
 }
