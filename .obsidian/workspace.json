@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Engineer/Cryptography/Cryptography Fundamentals.md",
+                "file": "Security Engineer/GRC/GRC Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptography Fundamentals"
+              "title": "GRC Fundamentals"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "4f683616b590e3b6",
   "lastOpenFiles": [
-    "resources/Notes and Cheatsheets/Offensive Tools/Curl.md",
     "Security Engineer/Cryptography/Cryptography Fundamentals.md",
+    "Security Engineer/GRC/GRC Fundamentals.md",
+    "Security Engineer/GRC",
+    "resources/Notes and Cheatsheets/Offensive Tools/Curl.md",
     "Security Engineer/Cryptography",
     "Security Engineer",
     "resources/Notes and Cheatsheets/Conceptual Notes/Security Principles.md",
@@ -214,12 +216,10 @@
     "resources/Notes and Cheatsheets/Technical Notes/Cryptography/Cryptography Fundamentals.md",
     "resources/Notes and Cheatsheets/Offensive Tools/Privilege Escalation/Sudo Privesc.md",
     "resources/Notes and Cheatsheets/Technical Notes/Cryptography/Tools",
-    "resources/Notes and Cheatsheets/Technical Notes/Cryptography/Notes",
     "writeups/htb/Easy/Tony The Tiger.md",
     "resources/Notes and Cheatsheets/Offensive Tools/Wireshark.md",
     "resources/Notes and Cheatsheets/Technical Notes/Protocols and Servers 2.md",
     "resources/Notes and Cheatsheets/Technical Notes/Computer Networking/Computer Networking Fundamentals.md",
-    "resources/Notes and Cheatsheets/Technical Notes/Windows/Windows Fundamentals.md",
-    "resources/Notes and Cheatsheets/Technical Notes/Windows/Powershell/Powershell Fundamentals.md"
+    "resources/Notes and Cheatsheets/Technical Notes/Windows/Windows Fundamentals.md"
   ]
 }
