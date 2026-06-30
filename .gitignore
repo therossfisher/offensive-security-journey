@@ -1,0 +1,10 @@
+hydra.restore
+*.restore
+shadow.txt
+b64.txt
+ForMitch.txt
+*.jpg
+*.png
+*.jpeg
+locks.txt
+*.out
