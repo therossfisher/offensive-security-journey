@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writeups/Try Hack Me/Easy/operation-coldstart.md",
+                "file": "writeups/CTF Quick Reference/CTF Workflow Quickref.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "operation-coldstart"
+              "title": "CTF Workflow Quickref"
             }
           }
         ]
@@ -185,20 +185,20 @@
   },
   "active": "4f683616b590e3b6",
   "lastOpenFiles": [
-    "writeups/CTF Quick Reference/CTF Workflow Quickref.md",
-    "writeups/Try Hack Me/Easy/operation-coldstart.md",
-    "resources/Notes and Cheatsheets/Web App Vulnerabilities/CSRF.md",
-    "resources/Notes and Cheatsheets/Offensive Tools/Gobuster.md",
-    "resources/Notes and Cheatsheets/Offensive Tools/Nmap/Nmap CTF.md",
-    "writeups/Try Hack Me/Easy/agent-sudo.md",
-    "resources/Notes and Cheatsheets/Offensive Tools/enum4linux.md",
     "writeups/Try Hack Me/Easy/tony-the-tiger.md",
     "writeups/Try Hack Me/Easy/simple-ctf.md",
     "writeups/Try Hack Me/Easy/rootme.md",
+    "writeups/Try Hack Me/Easy/operation-coldstart.md",
     "writeups/Try Hack Me/Easy/lazy-admin.md",
     "writeups/Try Hack Me/Easy/chocolate-factory.md",
     "writeups/Try Hack Me/Easy/bounty-hacker.md",
     "writeups/Try Hack Me/Easy/basic-pentesting.md",
+    "writeups/Try Hack Me/Easy/agent-sudo.md",
+    "writeups/CTF Quick Reference/CTF Workflow Quickref.md",
+    "resources/Notes and Cheatsheets/Web App Vulnerabilities/CSRF.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Gobuster.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/Nmap/Nmap CTF.md",
+    "resources/Notes and Cheatsheets/Offensive Tools/enum4linux.md",
     "resources/Notes and Cheatsheets/Offensive Tools/Nmap/Nmap General.md",
     "shadow.txt",
     "b64.txt",

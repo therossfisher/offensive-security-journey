@@ -6,7 +6,7 @@
 
 Full port scan with version detection and default scripts:
 ```bash
-sudo nmap -sV -sC -p- --min-rate 5000 -Pn TARGET
+ 
 ```
 
 Always use `-sC` — it runs SMB enumeration, FTP anonymous check, HTTP title grab automatically.
